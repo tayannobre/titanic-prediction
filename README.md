@@ -1,5 +1,3 @@
-# titanic-prediction
-Classificação da sobrevivência do Titanic usando o software Weka.
 # Titanic Survival Prediction
 
 Projeto de classificação da sobrevivência dos passageiros do Titanic usando **Weka** e o algoritmo **J48 (árvore de decisão)**.
