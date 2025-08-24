@@ -25,5 +25,5 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
   - **Age**
   - **SibSp (nº de irmãos/cônjuges a bordo)**
   - **Parch (nº de pais/filhos a bordo)**
-  - **Fare**
-  - **Embarked` (porto de embarque)**
+  - **Fare (tarifa/preço da viagem)**
+  - **Embarked (porto de embarque)**
