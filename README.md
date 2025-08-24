@@ -21,8 +21,8 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 - Classe alvo: **Survived (0 = não sobreviveu, 1 = sobreviveu)**
 - Atributos utilizados:
   - **Pclass (classe do passageiro)**
-  - **Sex**
-  - **Age**
+  - **Sex (Sexo)**
+  - **Age (Idade)**
   - **SibSp (nº de irmãos/cônjuges a bordo)**
   - **Parch (nº de pais/filhos a bordo)**
   - **Fare (tarifa/preço da viagem)**
