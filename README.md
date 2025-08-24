@@ -15,3 +15,15 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 - **test.csv** → usado para gerar as predições.
 - Fonte: [Kaggle - Titanic Dataset](https://www.kaggle.com/c/titanic).
 
+## ⚙️ Metodologia
+- Software: **Weka 3.8**
+- Algoritmo: **J48 (Árvore de Decisão)**
+- Classe alvo: **Survived (0 = não sobreviveu, 1 = sobreviveu)**
+- Atributos utilizados:
+  - **Pclass (classe do passageiro)**
+  - **Sex**
+  - **Age**
+  - **SibSp (nº de irmãos/cônjuges a bordo)**
+  - **Parch (nº de pais/filhos a bordo)**
+  - **Fare**
+  - **Embarked` (porto de embarque)**
