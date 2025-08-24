@@ -13,5 +13,4 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 ## 📊 Dados
 - **train.arff** → usado para treinar o modelo.
 - **test.arff** → usado para gerar as predições.
-- Fonte: [Kaggle - Titanic Dataset](https://www.kaggle.com/c/titanic).
 
