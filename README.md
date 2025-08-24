@@ -92,6 +92,3 @@ Este projeto demonstra **aprendizado de máquina supervisionado** utilizando ár
 
 
 ---
-
-Se você quiser, posso te sugerir como deixar o README mais visual colocando a imagem da árvore do J48, gráficos de importância de atributos e a tabela de acurácia para ficar pronto para portfólio. Quer que eu faça isso?
-
