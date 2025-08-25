@@ -44,6 +44,10 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
   - Southampton → maioria não sobreviveu.
   - Cherbourg/Queenstown → maior chance de sobrevivência.
 
-## Avaliação do Modelo J48
+**Avaliação do Modelo J48**
 
 ![Image](https://github.com/user-attachments/assets/6df8a4bb-7fa6-445b-91fe-058c555ffaf8)
+
+📌 **Interpretação**:
+- O modelo tem **79% d acurácia geral**, com desempenho melhor em prever quem **não sobreviveu** (classe 0)
+- A matriz de confusão mostra que **132 sobreviventes foram classificados como não sobreviventes**
