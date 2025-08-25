@@ -60,6 +60,10 @@ Após gerar o arquivo final_submission.csv, a previsão foi enviada para o Kaggl
 
 O modelo obteve cerca de **77% de acurácia**. Esse envio permite avaliar a performance do modelo em dados que ele nunca viu durante o treinamento.
 
+### Observação sobre o arquivo final_submission.csv
+
+O arquivo final_submission.csv está incluído dentro da **pasta zipada** disponível no repositório. Para acessá-lo, basta **baixar e descompactar a pasta**.
+
 ---
 ## 📈 Resultados finais
 
