@@ -54,6 +54,13 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 
 ---
 
+## Envio para o Kaggle
+
+Após gerar o arquivo final_submission.csv, a previsão foi enviada para o Kaggle. A plataforma compara o arquivo com os resultados reais do conjunto de teste e retorna uma **acurácia**, que indica a porcentagem de previsões corretas.
+
+O modelo obteve cerca de **77% de acurácia**. Esse envio permite avaliar a performance do modelo em dados que ele nunca viu durante o treinamento.
+
+---
 ## 📈 Resultados finais
 
 - **Acurácia no WEKA:** 79%
