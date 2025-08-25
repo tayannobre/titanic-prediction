@@ -49,5 +49,23 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 ![Image](https://github.com/user-attachments/assets/6df8a4bb-7fa6-445b-91fe-058c555ffaf8)
 
 📌 **Interpretação**:
-- O modelo tem **79% d acurácia geral**, com desempenho melhor em prever quem **não sobreviveu** (classe 0).
+- O modelo tem **79% de acurácia geral (desempenho estimado no train.csv)**, com desempenho melhor em prever quem **não sobreviveu** (classe 0).
 - A matriz de confusão mostra que **132 sobreviventes foram classificados como não sobreviventes**.
+
+---
+
+## 📈 Resultados finais
+
+- **Acurácia no WEKA:** 79%
+- **Pontuação no Kaggle**: 77%
+
+| Avaliação                   | Acurácia |
+|------------------------------|----------|
+| WEKA (Cross-validation)      | ~79%     |
+| Kaggle (test.csv - submissão)| 77%      |
+
+
+Isso mostra que o modelo usado conseguiu generalizar bem, já que o desempenho no Kaggle ficou bem próximo ao observado durante o treinamento.
+
+📌 Observações
+- O atributo **Sex** foi o mais decisivo no modelo.
