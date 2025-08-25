@@ -22,6 +22,7 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 - Algoritmo: **J48 (Árvore de Decisão)**
 - Classe alvo: **Survived (0 = não sobreviveu, 1 = sobreviveu)**
 - Atributos utilizados:
+  - **Passengerld (Classificação do passageiro)**
   - **Pclass (classe do passageiro)**
   - **Sex (Sexo)**
   - **Age (Idade)**
