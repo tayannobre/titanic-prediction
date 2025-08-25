@@ -33,3 +33,20 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 ---
 
 ## 🌳 Árvore gerada (J48)
+
+sex = male: 0 (577/109)
+sex = female: 1
+| pclass <= 2: 1 (170/9)
+| pclass > 2
+| | embarked = s: 0 (88/33)
+| | embarked = c: 1 (23/8)
+| | embarked = q: 1 (33/9)
+
+📌 **Interpretação rápida**:
+- Passageiros **homens** → maioria não sobreviveu.
+- Passageiras **mulheres** → maioria sobreviveu, especialmente nas classes **1ª e 2ª**.
+- Na **3ª classe**, o porto de embarque fez diferença:
+  - Southampton → maioria não sobreviveu.
+  - Cherbourg/Queenstown → maior chance de sobrevivência.
+
+---
