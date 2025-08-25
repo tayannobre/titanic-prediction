@@ -35,8 +35,6 @@ O modelo foi construído utilizando **Weka**, aplicando o classificador **J48** 
 
 ## 🌳 Árvore gerada (J48)
 
-![Arvore J48] (images/arvore_j48.png.jpg)
-
 📌 **Interpretação rápida**:
 - Passageiros **homens** → maioria não sobreviveu.
 - Passageiras **mulheres** → maioria sobreviveu, especialmente nas classes **1ª e 2ª**.
