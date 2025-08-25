@@ -14,5 +14,5 @@ titanic-weka/
 │   ├── predictions_test.csv     # submissão para o Kaggle
 │
 │── images/
-│   ├── j48_tree.png
+│   ├── arvore_j48.png
 │── README.md
