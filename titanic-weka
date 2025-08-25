@@ -1,0 +1,16 @@
+titanic-weka/
+│── data/
+│   ├── train.csv
+│   ├── test.csv
+│   ├── train.arff
+│   ├── test.arff
+│
+│── models/
+│   ├── j48_model.txt            # árvore J48 gerada
+│   ├── confusion_matrix.txt     # matriz de confusão
+│   ├── clusters_simple.txt      # saída do cluster (SimpleKMeans ou EM)
+│
+│── results/
+│   ├── predictions_test.csv     # submissão para o Kaggle
+│
+│── README.md
